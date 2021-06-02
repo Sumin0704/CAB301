@@ -1,0 +1,13 @@
+C:\Users\Jacob\Google Drive\QUT\I.T\CAB301\Assignment\CAB301-Assign\CAB301-Assign\obj\Debug\netcoreapp3.1\Assignment.csprojAssemblyReference.cache
+C:\Users\Jacob\Google Drive\QUT\I.T\CAB301\Assignment\CAB301-Assign\CAB301-Assign\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+C:\Users\Jacob\Google Drive\QUT\I.T\CAB301\Assignment\CAB301-Assign\CAB301-Assign\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+C:\Users\Jacob\Google Drive\QUT\I.T\CAB301\Assignment\CAB301-Assign\CAB301-Assign\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Google Drive\QUT\I.T\CAB301\Assignment\CAB301-Assign\CAB301-Assign\bin\Debug\netcoreapp3.1\Assignment.exe
+C:\Users\Jacob\Google Drive\QUT\I.T\CAB301\Assignment\CAB301-Assign\CAB301-Assign\bin\Debug\netcoreapp3.1\Assignment.deps.json
+C:\Users\Jacob\Google Drive\QUT\I.T\CAB301\Assignment\CAB301-Assign\CAB301-Assign\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+C:\Users\Jacob\Google Drive\QUT\I.T\CAB301\Assignment\CAB301-Assign\CAB301-Assign\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+C:\Users\Jacob\Google Drive\QUT\I.T\CAB301\Assignment\CAB301-Assign\CAB301-Assign\bin\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\Jacob\Google Drive\QUT\I.T\CAB301\Assignment\CAB301-Assign\CAB301-Assign\bin\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\Jacob\Google Drive\QUT\I.T\CAB301\Assignment\CAB301-Assign\CAB301-Assign\obj\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\Jacob\Google Drive\QUT\I.T\CAB301\Assignment\CAB301-Assign\CAB301-Assign\obj\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\Jacob\Google Drive\QUT\I.T\CAB301\Assignment\CAB301-Assign\CAB301-Assign\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache
